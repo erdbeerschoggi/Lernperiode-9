@@ -1,0 +1,9 @@
+[package]
+name = "frontend"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+yew = { version = "0.21", features = ["csr"] } # Das Frontend-Framework
+gloo-net = "0.3" # Um HTTP-Requests ans Backend zu senden
+wasm-bindgen-futures = "0.4" # Für asynchrone Funktionen im Browser
