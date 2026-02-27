@@ -24,6 +24,6 @@ Heute habe ich mich entschieden, welche 3 Technologien ich gebrauchen werde, und
 - [ ] Axum besser verstehen wie das ganze funktioniert
 - [ ] Beide Technologien schnell verbinden (tracer bullet-Prototype)
 - [ ] Tutorial zu Axum und Rust finden
-- [ ] Das Tutorial folgen (nicht im Kino Modus)
+- [ ] Das Tutorial folgen 
 
 
