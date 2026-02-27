@@ -31,5 +31,5 @@ Heute habe ich die beiden Technologien, mein Rust-Frontend und das Axum-Backend,
 ## 6.03
 - [ ] Daten vom Backend zum frontend schicken & Manipulieren können. Alle CRUD Operationen einbauen und schauen ob das funktioniert.
 - [ ] Herausfinden wie ich den Taschenrechner mit Axum einbauen möchte
-- [ ] Herausfinden wie ich den User Input einfüge wenn ich mit Backend und frontend arbeite
-- [ ] Taschenrechner beim Frontend und Backend einbauen
+- [ ] Herausfinden wie ich den User Input einfüge wenn ich mit Backend und frontend arbeite.
+- [ ] Taschenrechner beim Frontend und Backend einbauen.
