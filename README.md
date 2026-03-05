@@ -29,7 +29,7 @@ Heute habe ich mich entschieden, welche 3 Technologien ich gebrauchen werde, und
 Heute habe ich die beiden Technologien, mein Rust-Frontend und das Axum-Backend, miteinander verbunden. Es ging leider nicht so schnell wie erhofft und hat ziemlich lange gedauert, bis ich wirklich verstanden habe, was für die Verbindung alles nötig ist. Da mich das den Grossteil meiner Zeit gekostet hat, bin ich heute zu nichts anderem mehr gekommen. Bei Axum bin ich mir noch ein wenig unsicher. Ich habe mir überlegt, meinen Taschenrechner mit dem Backend zu verknüpfen. Ich habe aber momentan noch keine konkrete Idee, wie ich das angehen soll.
 
 ## 6.03
-- [ ] Daten vom Backend zum frontend schicken & Manipulieren können. Alle CRUD Operationen einbauen und schauen ob das funktioniert.
 - [ ] Herausfinden wie ich den Taschenrechner mit Axum einbauen möchte
 - [ ] Herausfinden wie ich den User Input einfüge wenn ich mit Backend und frontend arbeite.
+- [ ] Daten vom Backend zum frontend schicken & Manipulieren können. 
 - [ ] Taschenrechner beim Frontend und Backend einbauen.
