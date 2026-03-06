@@ -7,3 +7,4 @@ edition = "2024"
 yew = { version = "0.21", features = ["csr"] } # Das Frontend-Framework
 gloo-net = "0.3" # Um HTTP-Requests ans Backend zu senden
 wasm-bindgen-futures = "0.4" # Für asynchrone Funktionen im Browser
+serde = { version = "1.0.228", features = ["derive"] }
