@@ -37,7 +37,9 @@ Heute habe ich die beiden Technologien, mein Rust-Frontend und das Axum-Backend,
 Heute habe ich mich damit beschäftigt, meinen Taschenrechner in das Axum-Backend einzubauen. Es hat leider ziemlich lange gedauert, bis ich wirklich verstanden habe, wie das Frontend und Backend miteinander kommunizieren. Da mich dieses neue Konzept den Grossteil meiner Zeit gekostet hat, habe ich heute nur das Backend geschafft. Ich kann noch nichts mit dem Backend machen denn ich bräuchte User Input aber ich bin noch nicht ganz sicher wie ich das genau zum funktioniern bringe. Das Frontend und den User Input mache ich nächstes Mal. Ich bin mir noch nicht ganz sicher ob ich die Logik zu 100% vertsanden habe deswegen werde ich vielleicht nächstes mal alle http-Methoden ausprobieren. Denn beim Taschenrechenr brauche ich ja nicht alle dieser Methoden deswegen wäre es gut wenn ich mal alle einfach so durchnehme.
 
 ## 13.03
+- [x] Alle Http-Methoden erstellen und anwenden.
 - [ ] User Input hinzufügen, so das es mit backend und frontend funktioniert.
 - [ ] Taschenrechner beim Frontend einabuen.
-- [ ] Frontend ausbauen so dass mein Taschenrechner schön aussieht.
-- [ ] Alle Http-Methoden erstellen und anwenden.
+- [ ] Ansicht des Taschenrechners verschönern.
+
+Heute habe ich die HTTP-Methoden eingebaut. Die HTTP-Methoden hängen mit meinem Taschenrechner zusammen, denn wenn ich dann weitermache, um den Taschenrechner einzubauen, werde ich genau diese HTTP-Methoden brauchen – mit ein wenig Änderungen. Dann fing ich an herauszufinden, wie genau ich User-Input hinzufügen werde. Durch das Einbauen von den HTTP-Methoden habe ich jetzt die Interaktion zwischen Backend und Frontend in Rust besser verstanden.
