@@ -48,4 +48,4 @@ Heute habe ich die HTTP-Methoden eingebaut. Die HTTP-Methoden hängen mit meinem
 - [ ] User Input hinzufügen, so das es mit backend und frontend funktioniert.
 - [ ] Taschenrechner beim Frontend einbauen.
 - [ ] Ansicht des Taschenrechners verschönern.
-
+- [ ] SQLx Datenbank einbauen
