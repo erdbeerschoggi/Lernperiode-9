@@ -46,5 +46,6 @@ Heute habe ich die HTTP-Methoden eingebaut. Die HTTP-Methoden hängen mit meinem
 
 ## 19.03
 - [ ] User Input hinzufügen, so das es mit backend und frontend funktioniert.
-- [ ] Taschenrechner beim Frontend einabuen.
+- [ ] Taschenrechner beim Frontend einbauen.
 - [ ] Ansicht des Taschenrechners verschönern.
+
