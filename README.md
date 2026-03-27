@@ -53,5 +53,5 @@ Heute habe ich die HTTP-Methoden eingebaut. Die HTTP-Methoden hängen mit meinem
 Heute habe ich meinen Taschenrechner richtig im Frontend eingebaut. Das ging okay. Natürlich war es nicht so einfach, aber ich hatte keine riesigen Probleme. Dann verschönerte ich noch das Aussehen meines Taschenrechners, denn ohne Verschönerung sah dieser sehr langweilig aus.
 
 ## 27.03
-- [ ] Meinen Code genau analysieren, damit ich jeden Code snippet im Tutorial erklären kann
+- [X] Meinen Code genau analysieren, damit ich jeden Code snippet im Tutorial erklären kann
 - [ ] Code verbessern wo es nötig ist, d.h. alles unnötige entfernen, kommentare hinzufügen usw.
